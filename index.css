@@ -1,0 +1,18 @@
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 0.25rem;
+}
+.red {
+	color: red;
+	font-weight: bold;
+}
+.green {
+	color: green;
+	font-weight: bold;
+}
+
+summary {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
