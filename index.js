@@ -1,23 +1,23 @@
 const data = {
 	2022: {
 		11: {
-			"servidor": 30,
+			"servidor": 29.99,
 			"correo": 10.97,
 			"donaciones": 9,
 		},
 		12: {
-			"servidor": 30,
+			"servidor": 30.49,
 			"correo": 11.56,
-            "media": 7.36,
+            "media": 6.87,
 			"donaciones": 77.13,
 		},
 	},
 	2023: {
 		1: {
-			"servidor": 30,
-            "correo": 9,
-            "media": 4.36,
-			"donaciones": 99.78,
+			"servidor": 30.49,
+            "correo": 8,
+            "media": 3.87,
+			"donaciones": 102.28,
 		},
 	}
 }
