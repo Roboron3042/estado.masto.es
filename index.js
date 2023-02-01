@@ -15,9 +15,15 @@ const data = {
 	2023: {
 		1: {
 			"servidor": 30.49,
-            "correo": 8,
+            "correo": 7.09,
             "media": 3.87,
-			"donaciones": 102.28,
+			"donaciones": 109.34,
+		},
+        1: {
+			"servidor": 30.49,
+            "correo": 7,
+            "media": 3.87,
+			"donaciones": 2.56,
 		},
 	}
 }
