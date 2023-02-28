@@ -21,9 +21,9 @@ const data = {
 		},
         2: {
 			"servidor": 30.49,
-            "correo": 7,
+            "correo": 5,
             "media": 3.87,
-			"donaciones": 2.56,
+			"donaciones": 28.25,
 		},
 	}
 }
