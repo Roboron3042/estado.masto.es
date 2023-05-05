@@ -8,7 +8,7 @@ const data = {
 		12: {
 			"servidor": 30.49,
 			"correo": 11.56,
-            		"media": 6.87,
+			"media": 6.87,
 			"donaciones": 77.13,
 		},
 	},
@@ -16,10 +16,10 @@ const data = {
 		1: {
 			"servidor": 30.49,
 			"correo": 7.09,
-            		"media": 3.87,
+			"media": 3.87,
 			"donaciones": 109.34,
 		},
-        	2: {
+		2: {
 			"servidor": 30.49,
 			"correo": 4.78,
 			"media": 3.87,
@@ -30,6 +30,11 @@ const data = {
 			"correo": 4.00,
 			"media": 3.87,
 			"donaciones": 48.72,
+		},
+		4: {
+			"servidor": 82.16,
+			"correo": 4.16,
+			"donaciones": 41.92,
 		}
 	}
 }
