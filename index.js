@@ -35,7 +35,12 @@ const data = {
 			"servidor": 82.16,
 			"correo": 4.16,
 			"donaciones": 41.92,
-		}
+		},
+		5: {
+			"servidor": 51.67,
+			"correo": 2.05,
+			"donaciones": 103.01,
+		},
 	}
 }
 
