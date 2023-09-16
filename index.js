@@ -66,7 +66,8 @@ const data = {
 
 const data_dominio = {
     2022: 8.57,
-    2023: 0
+    2023: 9.78,
+	2024: 0,
 }
 
 let suma_vertical = [];
