@@ -58,8 +58,8 @@ const data = {
 		},
 		9: {
 			"servidor": 51.67,
-			"correo": 0.00,
-			"donaciones": 29.13,
+			"correo": 2.33,
+			"donaciones": 89.37,
 		},
 	}
 }
