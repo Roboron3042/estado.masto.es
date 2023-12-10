@@ -66,6 +66,11 @@ const data = {
 			"correo": 2.41,
 			"donaciones": 92.08,
 		},
+		11: {
+			"servidor": 51.67,
+			"correo": 2.37,
+			"donaciones": 101.83,
+		},
 	}
 }
 
@@ -95,7 +100,7 @@ const add_row = (year, concepto, positivo) => {
         coste_acumulado += cifra
         tablas += `<td class=${positivo ? "green" : "red"}>${cifra}€</td>`
     })
-    tablas += `<td class=${positivo ? "green" : "red"}>${coste_acumulado}€</td>`
+    tablas += `<td class=${positivo ? "green" : "red"}>${coste_acumulado.toFixed(2)}€</td>`
     tablas += '</tr>'
     return tablas;
 }
