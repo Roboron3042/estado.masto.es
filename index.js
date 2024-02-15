@@ -76,6 +76,13 @@ const data = {
 			"correo": 2.28,
 			"donaciones": 137.36,
 		},
+	},
+	2024: {
+		01: {
+			"servidor": 51.67,
+			"correo": 2.55,
+			"donaciones": 97.63,
+		}
 	}
 }
 
