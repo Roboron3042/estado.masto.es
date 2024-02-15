@@ -81,7 +81,7 @@ const data = {
 		01: {
 			"servidor": 51.67,
 			"correo": 2.55,
-			"donaciones": 97.63,
+			"donaciones": 95.66,
 		}
 	}
 }
