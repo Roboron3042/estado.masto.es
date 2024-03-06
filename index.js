@@ -8,7 +8,7 @@ const data = {
 		12: {
 			"servidor": 30.49,
 			"correo": 11.56,
-			"media": 6.87,
+			"otros": 6.87,
 			"donaciones": 77.13,
 		},
 	},
@@ -16,19 +16,19 @@ const data = {
 		1: {
 			"servidor": 30.49,
 			"correo": 7.09,
-			"media": 3.87,
+			"otros": 3.87,
 			"donaciones": 109.34,
 		},
 		2: {
 			"servidor": 30.49,
 			"correo": 4.78,
-			"media": 3.87,
+			"otros": 3.87,
 			"donaciones": 28.25,
 		},
 		3: {
 			"servidor": 30.49,
 			"correo": 4.00,
-			"media": 3.87,
+			"otros": 3.87,
 			"donaciones": 48.72,
 		},
 		4: {
@@ -82,8 +82,15 @@ const data = {
 			"servidor": 51.67,
 			"correo": 2.55,
 			"donaciones": 95.66,
+		},
+		02: {
+			"servidor": 51.67,
+			"correo": 2.10,
+			"donaciones": 48.22,
+			"otros": 28.83,
 		}
-	}
+	},
+
 }
 
 const data_dominio = {
@@ -156,7 +163,7 @@ Object.keys(data).forEach((year) => {
     tablas += '<th>Anual</th></tr>'
     tablas += add_row(year, "servidor", false)
     tablas += add_row(year, "correo", false)
-    tablas += add_row(year, "media", false)
+    tablas += add_row(year, "otros", false)
     tablas += add_row(year, "donaciones", true)
     tablas += add_row_total(year);
     tablas += add_row_acumulado(year);
