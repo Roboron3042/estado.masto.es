@@ -88,7 +88,12 @@ const data = {
 			"correo": 2.10,
 			"donaciones": 48.22,
 			"otros": 28.83,
-		}
+		},
+		03: {
+			"servidor": 51.67,
+			"correo": 2.75,
+			"donaciones": 54.17, // Patreon: 44.53, Ko-Fi: 9.64
+		},
 	},
 
 }
