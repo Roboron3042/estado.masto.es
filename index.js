@@ -109,6 +109,16 @@ const data = {
 			"correo": 1.36,
 			"donaciones": 49.36, // Patreon: 44.54, Stripe: 0, Paypal: 4.82
 		},
+		07: {
+			"servidor": 51.67,
+			"correo": 1.22,
+			"donaciones": 97.89, // Patreon: 43.42, Stripe: 49.65, Paypal: 4.82
+		},
+		08: {
+			"servidor": 51.67,
+			"correo": 3.24,
+			"donaciones": 95.42, // Patreon: 47.7, Stripe: 13.04, Paypal: 34.68
+		},
 	},
 
 }
@@ -116,7 +126,7 @@ const data = {
 const data_dominio = {
     2022: 8.57,
     2023: 9.78,
-	2024: 0,
+	2024: 9.78,
 }
 
 let suma_vertical = [];
