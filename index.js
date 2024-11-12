@@ -124,6 +124,12 @@ const data = {
 			"correo": 3.49,
 			"donaciones": 68.52, // Patreon: 46.57, Stripe: 9.60, Paypal: 12.35
 		},
+		10: {
+			"servidor": 51.67,
+			"correo": 2.89,
+			"donaciones": 106.47, // Patreon: 53,43, Stripe: 41.31, Paypal: 11.73
+			"otros": 156.19
+		},
 	},
 
 }
